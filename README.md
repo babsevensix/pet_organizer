@@ -1,6 +1,6 @@
 # pet_organizer
 
-A new Flutter project.
+A new Flutter project for my lives on https://www.twitch.tv/babsevensix.
 
 ## Getting Started
 
